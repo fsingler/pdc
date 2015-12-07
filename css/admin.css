@@ -1,0 +1,65 @@
+.titreadmin a {
+    font-family: 'LeagueGothicRegular',Arial,Helvetica,sans-serif;
+    font-size:25px;
+    text-transform: uppercase;
+    font-weight: normal;
+    color: #000000;
+}
+
+.titreadmin a:hover {
+    color: #FF5400;
+    text-decoration: none;
+}
+
+.leftlabel {
+    display: block;
+    width: 180px;
+    font-weight: bold;
+    float: left;
+}
+.rightlabel {
+    margin-left: 20px;
+    margin-right: 5px;
+}
+
+label.leftlabel {
+/*    display: block; */
+    padding-top: 7px;
+    width: 150px;
+    float: left; 
+}
+
+label.rightlabel {
+    margin-left: 20px;
+    margin-right: 5px;
+}
+
+label.leftlabelflex {
+/*    display: block; */
+    padding-top: 7px;
+/*    width: 120px; */
+    margin-right: 5px;
+    float: left; 
+}
+
+label.leftlabelradio {
+/*    display: block; */
+    padding-top: 2px;
+/*    width: 120px; */
+    margin-right: 5px;
+    float: left; 
+}
+
+
+.update {
+    border: 1px solid #000;
+    text-align: center;
+}
+
+.choiximages {
+    text-align: center;
+}
+.choiximages img {
+    max-width: 150px;
+    max-height: 150px;
+}

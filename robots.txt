@@ -1,0 +1,9 @@
+User-agent: *
+Crawl-delay: 10
+# Directories
+Disallow: /admin/
+
+# Files
+Disallow: /LICENSE.txt
+Disallow: /crash.txt
+Disallow: /README.md
